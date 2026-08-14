@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 add content in file.txt
+=======
+adding content to file.txt in develop branch
+>>>>>>> develop
